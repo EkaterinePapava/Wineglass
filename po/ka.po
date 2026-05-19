@@ -1,0 +1,100 @@
+# Georgian translation for com.github.aggalex.wineglass.
+# Copyright (C) 2026 com.github.aggalex.wineglass's authors.
+# This file is distributed under the same license as the com.github.aggalex.wineglass package.
+# Ekaterine Papava <papava.e@gtu.ge>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.aggalex.wineglass\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-05 12:23+0200\n"
+"PO-Revision-Date: 2026-05-19 06:42+0200\n"
+"Last-Translator: Ekaterine Papava <papava.e@gtu.ge>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: src/widgets/SettingsButton.vala:32
+msgid "wine configuration"
+msgstr "Wine-ის მორგება"
+
+#: src/widgets/SettingsButton.vala:33
+msgid "registry editor"
+msgstr "რეესტრის რედაქტორი"
+
+#: src/widgets/SettingsButton.vala:34
+msgid "winetricks"
+msgstr "winetricks"
+
+#: src/widgets/SettingsButton.vala:35
+msgid "command line"
+msgstr "ბრძანების სტრიქონი"
+
+#: src/widgets/SettingsButton.vala:37
+msgid "open prefix directory"
+msgstr "პრეფიქსის საქაღალდის გახსნა"
+
+#: src/widgets/SettingsButton.vala:38
+msgid "Run .exe file"
+msgstr ".exe ფაილის გაშვება"
+
+#: src/widgets/NamePopover.vala:38
+msgid ""
+"You can only use\n"
+" latin characters,\n"
+" numbers and '_'"
+msgstr ""
+"შეგიძლიათ, მხოლოდ,\n"
+"ლათინური სიმბოლოების,\n"
+"ციფრების და '_'-ის გამოყენება"
+
+#: src/widgets/MainBox.vala:40
+msgid "No wineprefixes"
+msgstr "wineprefix-ების გარეშე"
+
+#: src/widgets/MainBox.vala:40
+msgid "Wineprefix folder is empty"
+msgstr "Wineprefix-ის საქაღალდე ცარიელია"
+
+#: src/widgets/MainBox.vala:42
+msgid "Create one"
+msgstr "შექმნა"
+
+#: src/widgets/MainBox.vala:42
+msgid "Create a new empty wineprefix"
+msgstr "ახალი, ცარიელი wineprefix-ის შექმნა"
+
+#: src/widgets/Headerbar.vala:35
+msgid "Create a new prefix"
+msgstr "ახალი პრეფიქსის შექმნა"
+
+#: src/widgets/Headerbar.vala:40
+msgid "Search for wineprefixes"
+msgstr "wineprefix-ების ძებნა"
+
+#: src/widgets/AppsList.vala:65
+msgid "Remove Prefix"
+msgstr "პრეფიქსის წაშლა"
+
+#: data/com.github.aggalex.wineglass.desktop.in.in:4
+msgid "Wineglass"
+msgstr "Wineglass"
+
+#: data/com.github.aggalex.wineglass.desktop.in.in:5
+msgid "A GUI for Wine"
+msgstr "Wine-ის გრაფიკული ინტერფეისი"
+
+#: data/com.github.aggalex.wineglass.desktop.in.in:6
+msgid "Wine Frontent"
+msgstr "Wine-ის წინაბოლო"
+
+#: data/com.github.aggalex.wineglass.desktop.in.in:8
+msgid "com.github.aggalex.wineglass"
+msgstr "com.github.aggalex.wineglass"
+
+#: data/com.github.aggalex.wineglass.desktop.in.in:11
+msgid "Wine;Windows;run;exe;app;"
+msgstr "Wine;Windows;run;exe;app;"
